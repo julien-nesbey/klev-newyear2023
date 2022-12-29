@@ -1,0 +1,20 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  background-color: transparent;
+  padding: 2rem;
+  font-size: 2rem;
+  font-weight: bold;
+  outline: none;
+  text-transform: uppercase;
+  user-select: none;
+  z-index: 1;
+  text-align: center;
+  cursor: pointer;
+}
